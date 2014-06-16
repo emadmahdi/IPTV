@@ -11,7 +11,7 @@
         <cname>Al Dafra</cname>
         <item>
             <title>Al Dafra</title>
-            <link>rtmp://live.aldafrah.tv:1935/live/aldafrah1</link>
+            <link>rtmp://live.aldafrah.tv:1935/live/aldafrah1  timeout=20</link>
         </item>
     </streaminginfo>
     <streaminginfo>
@@ -25,7 +25,7 @@
         <cname>Aljazeera Doc</cname>
         <item>
             <title>Aljazeera Doc</title>
-            <link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high</link>
+            <link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high timeout=20</link>
         </item>
     </streaminginfo>
     <streaminginfo>
@@ -53,35 +53,35 @@
         <cname>Noursat</cname>
         <item>
             <title>Noursat</title>
-            <link>rtmp://fl1.viastreaming.net/noursat/livestream</link>
+            <link>rtmp://fl1.viastreaming.net/noursat/livestream timeout=20</link>
         </item>
     </streaminginfo>
     <streaminginfo>
         <cname>Orient News</cname>
         <item>
             <title>Orient News</title>
-            <link>rtmp://67.228.219.186/live/live3</link>
+            <link>rtmp://67.228.219.186/live/live3 timeout=20</link>
         </item>
     </streaminginfo>
     <streaminginfo>
         <cname>Wesal Tv</cname>
         <item>
             <title>Wesal Tv</title>
-            <link>rtmp://live.noorlive.com:1935/wesal/wesal1</link>
+            <link>rtmp://live.noorlive.com:1935/wesal/wesal1 timeout=20</link>
         </item>
     </streaminginfo>
     <streaminginfo>
         <cname>Csat_Christian</cname>
         <item>
             <title>Csat_Christian</title>
-            <link>rtmp://154.obj.netromedia.net/Copticsat/Copticsat</link>
+            <link>rtmp://154.obj.netromedia.net/Copticsat/Copticsat timeout=20</link>
         </item>
     </streaminginfo>
     <streaminginfo>
         <cname>Al Alamia</cname>
         <item>
             <title>Al Alamia</title>
-            <link>rtmp://ns8.indexforce.com/alalamia/alalamia</link>
+            <link>rtmp://ns8.indexforce.com/alalamia/alalamia timeout=20</link>
         </item>
     </streaminginfo>
     <streaminginfo>
@@ -102,7 +102,7 @@
         <cname>CNA</cname>
         <item>
             <title>CNA</title>
-            <link>rtmp://str81.creacast.com:80/cna/live.sdp</link>
+            <link>rtmp://str81.creacast.com:80/cna/live.sdp timeout=20</link>
         </item>
     </streaminginfo>
 
