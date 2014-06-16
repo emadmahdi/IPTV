@@ -1,13 +1,96 @@
 <streamingInfos>
 
-
     <streaminginfo>
-        <cname>Al Alam</cname>
+        <cname>Al Fayhaa</cname>
         <item>
-            <title>Test for emad file</title>
-            <link>rtmp://hd6.lsops.net/live/ playpath=alalam_ar_1428 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1382096815 pageUrl=http://www.livestation.com/en/alalam</link>   
-        </item>
+            <title>Al Fayhaa</title>
+            <link>mms://77.67.107.89/al-fayhaa</link>
     </streaminginfo>
+    <streaminginfo>
+        <cname>Al Dafra</cname>
+        <item>
+            <title>Al Dafra</title>
+            <link>rtmp://live.aldafrah.tv:1935/live/aldafrah1</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al-hurra Iraq</cname>
+        <item>
+            <title>Al-hurra Iraq</title>
+            <link>rtmp://110.164.253.197:1935/live?_fcs_vhost=cp51007.live.edgefcs.net&akmfv=1.8/Alhurra_Iraq_Flash@7095</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Aljazeera Doc</cname>
+        <item>
+            <title>Aljazeera Doc</title>
+            <link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>BBC Arabic</cname>
+        <item>
+            <title>BBC Arabic</title>
+            <link>mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117?.wma</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>BBC Arabic</cname>
+        <item>
+            <title>BBC Arabic</title>
+            <link>http://www.bbc.co.uk/arabic/meta/tx/live/atv_live_bb.asx</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>DW Arabic</cname>
+        <item>
+            <title>DW Arabic</title>
+            <link>http://www.metafilegenerator.de/DWelle/tv-arabia/wmv/tv_mb_m.asx</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Noursat</cname>
+        <item>
+            <title>Noursat</title>
+            <link>rtmp://fl1.viastreaming.net/noursat/livestream</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Orient News</cname>
+        <item>
+            <title>Orient News</title>
+            <link>rtmp://67.228.219.186/live/live3</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Wesal Tv</cname>
+        <item>
+            <title>Wesal Tv</title>
+            <link>rtmp://live.noorlive.com:1935/wesal/wesal1</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Csat_Christian</cname>
+        <item>
+            <title>Csat_Christian</title>
+            <link>rtmp://154.obj.netromedia.net/Copticsat/Copticsat</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Alamia</cname>
+        <item>
+            <title>Al Alamia</title>
+            <link>rtmp://ns8.indexforce.com/alalamia/alalamia</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Hurra</cname>
+        <item>
+            <title>Al Hurra</title>
+            <link>rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Imam Hussein 2</cname>
+        <item>
+            <title>Imam Hussein 2</title>
+            <link>rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203</link>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>CNA</cname>
+        <item>
+            <title>CNA</title>
+            <link>rtmp://str81.creacast.com:80/cna/live.sdp</link>
+    </streaminginfo>
+
 
 
 </streamingInfos>
