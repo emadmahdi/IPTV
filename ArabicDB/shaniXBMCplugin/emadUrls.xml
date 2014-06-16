@@ -31,14 +31,14 @@
     <streaminginfo>
         <cname>BBC Arabic</cname>
         <item>
-            <title>BBC Arabic</title>
+            <title>BBC Arabic link1</title>
             <link>mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117?.wma</link>
         </item>
     </streaminginfo>
     <streaminginfo>
         <cname>BBC Arabic</cname>
         <item>
-            <title>BBC Arabic</title>
+            <title>BBC Arabic link2</title>
             <link>http://www.bbc.co.uk/arabic/meta/tx/live/atv_live_bb.asx</link>
         </item>
     </streaminginfo>
