@@ -11,7 +11,7 @@
         <cname>Al Dafra</cname>
         <item>
             <title>Al Dafra</title>
-            <link>rtmp://live.aldafrah.tv:1935/live/aldafrah1  timeout=20</link>
+            <link>rtmp://live.aldafrah.tv:1935/live/aldafrah1 timeout=20</link>
         </item>
     </streaminginfo>
     <streaminginfo>
