@@ -17,8 +17,8 @@
     <streaminginfo>
         <cname>Al-hurra Iraq</cname>
         <item>
-            <title>Al-hurra Iraq</title>
-            <link>rtmp://110.164.253.197:1935/live?_fcs_vhost=cp51007.live.edgefcs.net&amp;akmfv=1.8/Alhurra_Iraq_Flash@7095</link>
+            <title>Al-hurra Iraq link1</title>
+            <link>rtmp://110.164.253.197:1935/live?_fcs_vhost=cp51007.live.edgefcs.net&amp;akmfv=1.8/Alhurra_Iraq_Flash@7095 timeout=20</link>
         </item>
     </streaminginfo>
     <streaminginfo>
@@ -85,10 +85,10 @@
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>Al Hurra</cname>
+        <cname>Al-hurra Iraq</cname>
         <item>
-            <title>Al Hurra</title>
-            <link>rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15</link>
+            <title>Al-hurra Iraq link2</title>
+            <link>rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15 timeout=20</link>
         </item>
     </streaminginfo>
     <streaminginfo>
