@@ -105,6 +105,83 @@
             <link>rtmp://str81.creacast.com:80/cna/live.sdp timeout=20</link>
         </item>
     </streaminginfo>
+    <streaminginfo>
+        <cname>Al Waad</cname>
+        <item>
+            <title>Al Waad</title>
+            <link>rtmp://streaming.stimme-der-hoffnung.de/hcname2/livestreamhcname timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Aljazeera</cname>
+        <item>
+            <title>Aljazeera</title>
+            <link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_low timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Maaref</cname>
+        <item>
+            <title>Al Maaref</title>
+            <link>rtmp://144.76.45.226/live/1 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Russia Alyaum</cname>
+        <item>
+            <title>Russia Alyaum</title>
+            <link>http://media4.lsops.net/live/smil:rustoday_ar.smil/playlist.m3u8</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Sharqiya News</cname>
+        <item>
+            <title>Al Sharqiya News</title>
+            <link>rtmp://ns9.indexforce.com/home/mystream timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Alamia</cname>
+        <item>
+            <title>Al Alamia</title>
+            <link>rtmp://ns8.indexforce.com/alalamia/alalamia timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>BBC Arabic</cname>
+        <item>
+            <title>BBC Arabic</title>
+            <link>http://www.bbc.co.uk/arabic/meta/tx/bb/atv_live_16x9_bb.asx</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Forat</cname>
+        <item>
+            <title>Al Forat</title>
+            <link>rtmp://alforatlive.nanocdn.com/live/alforat256 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Ahlulbayt</cname>
+        <item>
+            <title>Ahlulbayt</title>
+            <link>rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Alam</cname>
+        <item>
+            <title>Al Alam</title>
+            <link>rtmp://31.14.40.251/live/alalam1 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Fayhaa</cname>
+        <item>
+            <title>Al Fayhaa</title>
+            <link>mms://77.67.107.89/al-fayhaa</link>
+        </item>
+    </streaminginfo>
 
 
 
