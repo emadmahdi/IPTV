@@ -182,6 +182,48 @@
             <link>mms://77.67.107.89/al-fayhaa</link>
         </item>
     </streaminginfo>
+    <streaminginfo>
+        <cname>iFilm Arabic</cname>
+        <item>
+            <title>Low Quality</title>
+            <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm_arabic-live-4x3-SDq timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>iFilm Arabic</cname>
+        <item>
+            <title>Med Quality</title>
+            <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm_arabic-live-4x3-SDh timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>iFilm Arabic</cname>
+        <item>
+            <title>High Quality</title>
+            <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm_arabic-live-4x3-SD timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>iFilm English</cname>
+        <item>
+            <title>Low Quality</title>
+            <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm-live-16x9-SDq timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>iFilm English</cname>
+        <item>
+            <title>Med Quality</title>
+            <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm-live-16x9-SDh timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>iFilm English</cname>
+        <item>
+            <title>High Quality</title>
+            <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm-live-16x9-SD timeout=20</link>
+        </item>
+    </streaminginfo>
 
 
 
