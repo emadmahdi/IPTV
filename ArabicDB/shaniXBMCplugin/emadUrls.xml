@@ -123,7 +123,7 @@
 	<cname>Imam Hassan</cname>
 	<item>
 	<title>Imam Hassan</title>
-	<link>rtmp://uni6rtmp.tulix.tv:1935/imamh/imamh1 live=1 timeout=20</link>
+	<link>rtmp://uni6rtmp.tulix.tv:1935/imamh/imamh1 live=1 timeout=10</link>
 	</item>
 </streaminginfo>
 
