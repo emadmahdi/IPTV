@@ -2,6 +2,15 @@
 
 
 
+
+
+<streaminginfo>
+	<cname>Karbala</cname>
+	<item>
+	<title>You need Livestream Addon</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=Karbala+Live&amp;icon=http%3A%2F%2Fcdn.livestream.com%2Fnewlivestream%2Fposter-default_170x255.jpeg&amp;event_id=3998452&amp;owner_id=11436227&amp;video_id=LIVE</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Fadak</cname>
 	<item>
