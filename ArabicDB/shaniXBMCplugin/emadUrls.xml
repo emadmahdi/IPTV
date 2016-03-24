@@ -119,8 +119,22 @@
 <streaminginfo>
 	<cname>Ahlulbayt</cname>
 	<item>
-	<title>Ahlulbayt</title>
+	<title>Low Quality</title>
 	<link>rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ahlulbayt</cname>
+	<item>
+	<title>Very Low Quality</title>
+	<link>rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt128 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ahlulbayt</cname>
+	<item>
+	<title>Extremely Low Quality</title>
+	<link>rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt64 live=1 timeout=10</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
