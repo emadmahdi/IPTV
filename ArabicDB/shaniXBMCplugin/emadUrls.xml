@@ -14,8 +14,8 @@
 <streaminginfo>
 	<cname>Fadak</cname>
 	<item>
-	<title>Arabic High Quality</title>
-	<link>http://live.ftvcdn.co.uk/ftvarb/smil:d0dbe915091d400bd8ee7f27f0791303.smil/playlist.m3u8</link>
+	<title>Arabic HD</title>
+	<link>http://live.ftvcdn.co.uk/iq/7d80fbad86663c34c7f422f82da78014.sdp/index.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -138,73 +138,24 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Al Fayhaa</cname>
-	<item>
-	<title>Al Fayhaa</title>
-	<link>mms://77.67.107.89/al-fayhaa</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>iFilm Arabic</cname>
 	<item>
-	<title>Arabic Very High Quality</title>
-	<link>http://presstv-ch01.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_slarb.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>iFilm Arabic</cname>
-	<item>
-	<title>Arabic High Quality</title>
-	<link>http://presstv-ch01.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b1500000_slarb.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>iFilm Arabic</cname>
-	<item>
-	<title>Arabic Medium Quality</title>
-	<link>http://presstv-ch01.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b1000000_slarb.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>iFilm Arabic</cname>
-	<item>
-	<title>Arabic Low Quality</title>
-	<link>http://presstv-ch01.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b500000_slarb.m3u8</link>
+	<title>Arabic HD</title>
+	<link>http://efusion1-i.akamaihd.net/hls/live/252882/ifilmar/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>iFilm English</cname>
 	<item>
-	<title>English Very High Quality</title>
-	<link>http://presstv-ch06.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_sleng.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>iFilm English</cname>
-	<item>
-	<title>English High Quality</title>
-	<link>http://presstv-ch06.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b1500000_sleng.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>iFilm English</cname>
-	<item>
-	<title>English Medium Quality</title>
-	<link>http://presstv-ch06.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b1000000_sleng.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>iFilm English</cname>
-	<item>
-	<title>English Low Quality</title>
-	<link>http://presstv-ch06.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b500000_sleng.m3u8</link>
+	<title>English HD</title>
+	<link>http://efusion1-i.akamaihd.net/hls/live/252882/ifilmen/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Imam Hussein 2</cname>
 	<item>
-	<title>Imam Hussein 2</title>
-	<link>http://ca.live.imamhussein.tv:1935/live/ih202/playlist.m3u8</link>
+	<title>Arabic HD</title>
+	<link>http://live.imamhusseintv.com/live/ih2.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
