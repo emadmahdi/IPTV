@@ -59,14 +59,14 @@
 	<cname>Al Maaref</cname>
 	<item>
 	<title>Play Low Quality</title>
-	<link>http://almaareftv.com:1935/live/11/playlist.m3u8 timeout=10</link>
+	<link>http://almaareftv.com:1935/live/11/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 	<streaminginfo>
 	<cname>Al Maaref</cname>
 	<item>
 	<title>Play Very High Quality</title>
-	<link>http://almaareftv.com:1935/live/12/playlist.m3u8 timeout=10</link>
+	<link>http://almaareftv.com:1935/live/12/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 	<streaminginfo>
