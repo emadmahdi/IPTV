@@ -1,9 +1,4 @@
 <streamingInfos>
-
-
-
-
-
 <streaminginfo>
 	<cname>Karbala</cname>
 	<item>
@@ -61,6 +56,20 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+	<cname>Al Maaref</cname>
+	<item>
+	<title>Play Low Quality</title>
+	<link>http://almaareftv.com:1935/live/11/playlist.m3u8 timeout=10</link>
+	</item>
+</streaminginfo>
+	<streaminginfo>
+	<cname>Al Maaref</cname>
+	<item>
+	<title>Play Very High Quality</title>
+	<link>http://almaareftv.com:1935/live/12/playlist.m3u8 timeout=10</link>
+	</item>
+</streaminginfo>
+	<streaminginfo>
 	<cname>Aljazeera Doc</cname>
 	<item>
 	<title>Aljazeera Doc</title>
@@ -165,5 +174,4 @@
 	<link>rtmp://uni6rtmp.tulix.tv:1935/imamh/imamh1 live=1 timeout=10</link>
 	</item>
 </streaminginfo>
-
 </streamingInfos>
