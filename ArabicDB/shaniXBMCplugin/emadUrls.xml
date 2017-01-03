@@ -150,7 +150,7 @@
 	<cname>iFilm Arabic</cname>
 	<item>
 	<title>Arabic HD</title>
-	<link>rtmp://192.99.219.222:1935/live/ifilmar</link>
+	<link>rtmp://192.99.219.222:1935/live/ifilmar live=1 timeout=10</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
