@@ -149,8 +149,15 @@
 <streaminginfo>
 	<cname>iFilm Arabic</cname>
 	<item>
-	<title>Arabic HD</title>
-	<link>rtmp://192.99.219.222:1935/live/ifilmar live=1 timeout=10</link>
+	<title>Arabic 1</title>
+	<link>http://efusion1-i.akamaihd.net/hls/live/252882/ifilmar/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>iFilm Arabic</cname>
+	<item>
+	<title>Arabic 2</title>
+	<link>http://178.32.255.199:1935/live/ifilmar/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
