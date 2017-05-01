@@ -16,14 +16,7 @@
 <streaminginfo>
 	<cname>Al Alam</cname>
 	<item>
-	<title>Arabic High Quality</title>
-	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8?token=20160125x2h5fruwen3Pateth</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Alam</cname>
-	<item>
-	<title>Arabic Low Quality</title>
+	<title>Arabic Medium Quality</title>
 	<link>rtmp://fml.BE1E.edgecastcdn.net/20BE1E/HLS/AlalamHLS swfUrl=http://www.alalam.ir/files/flowplayer.commercial-3.2.16.swf pageUrl=http://www.alalam.ir/live live=1 timeout=10</link>
 	</item>
 </streaminginfo>
