@@ -16,7 +16,7 @@
 <streaminginfo>
 	<cname>Al Alam</cname>
 	<item>
-	<title>Arabic Medium Quality</title>
+	<title>Arabic Low Quality</title>
 	<link>rtmp://fml.BE1E.edgecastcdn.net/20BE1E/HLS/AlalamHLS swfUrl=http://www.alalam.ir/files/flowplayer.commercial-3.2.16.swf pageUrl=http://www.alalam.ir/live live=1 timeout=10</link>
 	</item>
 </streaminginfo>
